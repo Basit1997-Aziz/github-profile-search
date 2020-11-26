@@ -1,8 +1,8 @@
 {
-  "name": "learningreact",
+  "name": "gitprofilesearch",
   "version": "0.1.0",
   "private": true,
-  "omepage": "http://Basit1997-Aziz.github.io/github-profile-search",
+  "homepage": "http://Basit1997-Aziz.github.io/github-profile-search",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.6",
